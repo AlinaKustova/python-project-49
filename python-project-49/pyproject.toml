@@ -2,7 +2,9 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Brain games: even, calc, gcd, progression and prime"
-authors = "Alina Kustova"
+authors = [
+    {name = "Alina Kustova", email = "a-kustova.26@mail.ru"},
+]
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
