@@ -1,3 +1,9 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/AlinaKustova/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlinaKustova/python-project-49/actions)
+
+### SolarQube badge
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AlinaKustova_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AlinaKustova_python-project-49)
+
 # Демонстрация работы игры "brain-even"
 [![asciicast](https://asciinema.org/a/Zg15Ts9TUpxb19PO.svg)](https://asciinema.org/a/Zg15Ts9TUpxb19PO)
 

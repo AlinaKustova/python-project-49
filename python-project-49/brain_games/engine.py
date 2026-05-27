@@ -8,9 +8,9 @@ def description_and_comprasion(task, description):
 
     print(description)
 
-    rounds = 3
+    ROUNDS = 3
 
-    for _ in range(rounds):
+    for _ in range(ROUNDS):
         question, correct_answer = task()
         print('Question: ' + question)
 
