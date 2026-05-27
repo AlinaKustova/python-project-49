@@ -8,8 +8,6 @@ def is_even(number):
 
 
 def play():
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-    
     number = randint(1, 100)
 
     number_is_even = is_even(number)
@@ -19,7 +17,9 @@ def play():
 
 
 def main():
-    description_and_comprasion(play)
+    description = 'Answer "yes" if the number is even, otherwise answer "no".'
+
+    description_and_comprasion(play, description)
 
 
 if __name__ == "__main__":

@@ -1,10 +1,12 @@
 import prompt
 
 
-def description_and_comprasion(task):
+def description_and_comprasion(task, description):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
+
+    print(description)
 
     rounds = 3
 

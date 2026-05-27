@@ -14,8 +14,6 @@ def calculate(number_1, number_2, operation):
 
 
 def play():
-    print('What is the result of the expression?')
-    
     number_1 = randint(1, 100)
     number_2 = randint(1, 100)
 
@@ -28,7 +26,9 @@ def play():
 
 
 def main():
-    description_and_comprasion(play)
+    description = 'What is the result of the expression?'
+    
+    description_and_comprasion(play, description)
 
 
 if __name__ == "__main__":

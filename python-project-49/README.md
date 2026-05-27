@@ -1,7 +1,11 @@
 # Демонстрация работы игры "brain-even"
 
-[![asciicast](https://asciinema.org/a/UeMmLy7KxwWBEjFr.svg)](https://asciinema.org/a/UeMmLy7KxwWBEjFr)
+[![asciicast](https://asciinema.org/a/Zg15Ts9TUpxb19PO.svg)](https://asciinema.org/a/Zg15Ts9TUpxb19PO)
 
 
 # Демонстрация работы игры "brain-calc"
-[![asciicast](https://asciinema.org/a/RpzBwTRlyDwAxm2r.svg)](https://asciinema.org/a/RpzBwTRlyDwAxm2r)
+[![asciicast](https://asciinema.org/a/tQG9LdaUa8uScRT8.svg)](https://asciinema.org/a/tQG9LdaUa8uScRT8)
+
+
+# Демонстрация работы игры "brain-gcd"
+[![asciicast](https://asciinema.org/a/U0l84HqNjHwvwaJO.svg)](https://asciinema.org/a/U0l84HqNjHwvwaJO)
